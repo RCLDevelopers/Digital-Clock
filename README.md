@@ -44,7 +44,7 @@ After clonning [this repo](https://github.com/Abhijith14/Digital-Clock), run For
 
 ### Authors
 
-* **Abhijith Udayakumar** - *Design & Development* - [Abhijith14](https://github.com/Abhijith14)
+* **Zangtics** - *Design & Development* - [Zangtics Digital](https://zangticsdigital.com/)
 
 <br>
 <br>
